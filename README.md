@@ -1,5 +1,5 @@
 # RPSGames
-Simple RPS Games
+RPSGame
 Created using a programming language:
 
  • C++
