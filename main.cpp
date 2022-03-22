@@ -17,7 +17,7 @@ int main(){
                      cout<<softwareNm<<endl;
                  }
              }
-         }
+         } 
      }
      for(rfg;rfg<=r_jf;rfg++){
          cout<< zvr; if(rfg==r_jf){
